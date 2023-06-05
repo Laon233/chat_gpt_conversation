@@ -1,0 +1,2 @@
+api_key = "sk-XXXXXXXXXXXXXXXXXXXX"
+organization = "org-XXXXXXXXXXXXXXXXXXXXXX"
